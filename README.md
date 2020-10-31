@@ -1,5 +1,5 @@
 # To-do App
-##App para alinhamento de tarefas
+## App para alinhamento de tarefas
 
 App criado com:
 - HTML
